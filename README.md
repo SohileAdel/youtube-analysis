@@ -1,1 +1,1 @@
-Using Tableau to analyse Youtube data.
+Using Tableau to analyze Youtube data.
